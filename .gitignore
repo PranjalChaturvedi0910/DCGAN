@@ -5,7 +5,6 @@ venv/
 
 # Data and Outputs
 data/
-outputs/
 
 # IDE files
 .idea/
